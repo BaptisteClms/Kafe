@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283680594868",
+    "project_id": "kafe-5506f",
+    "storage_bucket": "kafe-5506f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283680594868:android:99e3342d898a5c940970e1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBII_Rr__Pqj0XOi2qS2-u-M8CC9NM0rSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283680594868:android:e64f1579e064e7f70970e1",
+        "android_client_info": {
+          "package_name": "com.example.kafe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBII_Rr__Pqj0XOi2qS2-u-M8CC9NM0rSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
